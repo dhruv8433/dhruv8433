@@ -29,11 +29,10 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **react, javaScript**
 
-<div class="myprofile" style="display:flex;">
-<p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" style="height:200px;width:1000px;margin:0" alt="dhruv8433" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&show_icons=true&locale=en" alt="dhruv8433" /></p>
-</div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" alt="dhruv8433" /></p>
+
+<p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" style="height:200px;width:1000px;margin:0" alt="dhruv8433" /></p>
+<p style="display:flex"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&show_icons=true&locale=en" alt="dhruv8433" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" alt="dhruv8433" /></p>
 
 
 <div display="flex">
