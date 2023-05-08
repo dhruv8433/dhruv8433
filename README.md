@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <br>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" style="height:166px;margin-top:25px; width:400px" alt="dhruv8433" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" style="height:176px; width:380px; margin-top:-100px; margin-left:20px" alt="dhruv8433" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" style="height:156px;margin-top:25px; width:380px" alt="dhruv8433" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" style="height:156px; width:380px; margin-top:-100px; margin-left:20px" alt="dhruv8433" />
 </p>
 <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
 
