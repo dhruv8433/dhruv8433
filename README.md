@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" style="height:166px;margin-top: 25px;; width:400px" alt="dhruv8433" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" style="height:166px;margin-top:25px; width:400px" alt="dhruv8433" />
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" style="height:196px; width:360px; margin-top:-4%; margin-left:20px" alt="dhruv8433" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" style="height:196px; width:360px; margin-top:-40px; margin-left:20px" alt="dhruv8433" /></p>
 
 
 
