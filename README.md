@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **React, Redux**
 
 - 💬 Ask me about **react, javaScript**
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&show_icons=true&locale=en" alt="dhruv8433" /> <br>
+&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" alt="dhruv8433" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" style="height:100px;width:400px" alt="dhruv8433" /></p>
 <div display="flex">
 <h3 align="left">Connect with me:</h3>
 <p align="left" justify="space-between">
@@ -36,8 +42,3 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/dhruv_s_o_n_i_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_s_o_n_i" height="30" width="40" /></a>
 </p>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&show_icons=true&locale=en" alt="dhruv8433" /> <br>
-&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" alt="dhruv8433" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" alt="dhruv8433" /></p>
