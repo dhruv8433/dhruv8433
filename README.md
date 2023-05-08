@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv8433&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv8433" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv8433" alt="dhruv8433" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dhruv_s_o_n_i" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv_s_o_n_i?logo=twitter&style=for-the-badge" alt="dhruv_s_o_n_i" /></a> </p>
+
+- 🔭 I’m currently working on **eDemmand**
+
 - 🌱 I’m currently learning **React, Redux**
+
+- 💬 Ask me about **react, javaScript**
 <div display="flex">
 <h3 align="left">Connect with me:</h3>
 <p align="left" justify="space-between">
