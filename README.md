@@ -36,21 +36,3 @@ Here are some ideas to get you started:
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" style="height:196px; width:360px; margin-top:-40px; margin-left:20px" alt="dhruv8433" /></p>
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv8433&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv8433" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv8433" alt="dhruv8433" /></a> </p>
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&show_icons=true&locale=en" alt="dhruvsoni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" alt="dhruvsoni" /></p>
-
