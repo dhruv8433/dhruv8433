@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" style="height:166px; width:400px" alt="dhruv8433" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" style="height:196px; width:420px; margin-top:-40px" alt="dhruv8433" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" style="height:196px; width:420px; margin-top:-4%" alt="dhruv8433" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&show_icons=true&locale=en" style:"width:350px" alt="dhruv8433" /></p>
 
 
