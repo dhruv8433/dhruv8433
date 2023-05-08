@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="left"> <a href="https://twitter.com/dhruv_s_o_n_i" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv_s_o_n_i?logo=twitter&style=for-the-badge" alt="dhruv_s_o_n_i" /></a> </p>
 
 - 🌱 I’m currently learning **React, Redux**
 
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" style="height:196px" alt="dhruv8433" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&show_icons=true&locale=en" style:"400px" alt="dhruv8433" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&show_icons=true&locale=en" style:"350px" alt="dhruv8433" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" style="width:400px;height:196px" alt="dhruv8433" /></p>
 
@@ -40,5 +41,4 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv8433" alt="dhruv8433" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dhruv_s_o_n_i" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv_s_o_n_i?logo=twitter&style=for-the-badge" alt="dhruv_s_o_n_i" /></a> </p>
 
