@@ -27,13 +27,18 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/dhruv_s_o_n_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv_s_o_n_i" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soni dhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soni dhruv" height="30" width="40" /></a>
-<a href="https://instagram.com/dhruv_s_o_n_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_s_o_n_i" height="30" width="40" /></a>
+
 </p>
 <br>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&show_icons=true&locale=en&layout=compact" style="height:156px;margin-top:25px; width:380px" alt="dhruv8433" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&" style="height:156px; width:380px; margin-top:-100px; margin-left:20px" alt="dhruv8433" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&theme=radical&show_icons=true&locale=en&layout=compact" style="height:156px;margin-top:25px; width:380px" alt="dhruv8433" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&theme=radical" style="height:146px; width:390px; margin-top:-100px; margin-left:20px" alt="dhruv8433" />
+</p> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=dhruv8433&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /)<br/>
 <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dhruv8433&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
