@@ -14,10 +14,9 @@
 <br>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv8433&theme=radical&show_icons=true&locale=en&layout=compact" style="height:156px;margin-top:25px; width:380px" alt="dhruv8433" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="height:156px;margin-top:25px; width:380px" alt="dhruv8433" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&theme=radical" style="height:156px; width:380px; margin-top:-100px; margin-left:20px" alt="dhruv8433" />
 </p> <br>
-<p>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dhruv8433&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="height:156px;width:380px" /)</p><br/>
 <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
 
 ## 🏆 GitHub Trophies
