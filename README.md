@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning **React, Redux**
 - 💬 Ask me about **react, javaScript**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
