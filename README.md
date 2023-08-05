@@ -6,6 +6,7 @@
 - 💬 Ask me about **react, javaScript**
 - ⚡ Fun fact **I am funny**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhruv_s_o_n_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv_s_o_n_i" height="30" width="40" /></a>
