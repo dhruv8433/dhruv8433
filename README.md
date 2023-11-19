@@ -2,9 +2,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <a href="https://twitter.com/dhruv_s_o_n_i" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv_s_o_n_i?logo=twitter&style=for-the-badge" alt="dhruv_s_o_n_i" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux**
-- 💬 Ask me about **react, javaScript**
+- 🌱 Full Stack Web Developer in **Next JS**
+- 💬 Ask me about **react, javaScript, next, redux, apis**
 - ⚡ Fun fact **I am funny**
+- 👁️ Looking for **open source contribution**
 
 
 <h3 align="left">Connect with me:</h3>
