@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <a href="https://twitter.com/dhruv_s_o_n_i" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv_s_o_n_i?logo=twitter&style=for-the-badge" alt="dhruv_s_o_n_i" /></a> </p>
+![Banner](https://github.com/dhruv8433/dhruv8433/assets/114583978/1a46e15b-8274-49dc-a1ab-da77f08cae6d)
 
 - 🌱 Full Stack Web Developer in **Next JS**
 - 💬 Ask me about **react, javaScript, next, redux, apis**
