@@ -21,7 +21,9 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&theme=radical" style="height:150px; width:380px; margin-top:-70px; margin-left:20px" alt="dhruv8433" />
  <br>
 <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
-
+<p align="center">
+<a href="https://buymeacoffee.com/dhruvsoni"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhruv8433&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
