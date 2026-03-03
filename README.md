@@ -95,10 +95,9 @@
 <br>
 
 <!-- GSSoC Badges Section -->
-## GSSoC'24 Badges 
+<!-- ## GSSoC'24 Badges 
 <div style="display:flex; align-items:center; gap: 10px;" align="left">
   <a href="https://gssoc.girlscript.tech/leaderboard">
-    <!-- Displaying GSSoC badges -->
     <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
     <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
     <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
@@ -108,20 +107,19 @@
     <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
     <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   </a>
-</div>
+</div> -->
 
 <!-- GitHub Trophies Section -->
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 <div align="center">
-  <!-- GitHub Trophy Card -->
   <img src="https://github-profile-trophy.vercel.app/?username=dhruv8433&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+</div>-->
 
-<br />
+<!-- <br /> -->
 
 <!-- Visitor Count Badge -->
-<div align="start">
+<!-- <div align="start">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=dhruv8433&icon=1&color=0" alt="Visitor Count" />
   </a>
-</div>
+</div> -->
