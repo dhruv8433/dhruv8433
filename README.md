@@ -16,7 +16,7 @@
 💛 In love with <strong>JavaScript</strong> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
 🎨 Love writing <strong>CSS / SCSS</strong> <br />
 🌱 Software Developer <br />
-💬 Ask me about <strong>react, JavaScript, TypeScript, Next.js, Redux, APIs, Php</strong> <br />
+💬 Ask me about <strong>react, JavaScript, TypeScript, Next.js, APIs, Php</strong> <br />
 ⚡ Fun fact: <strong>I am funny</strong> <br />
 👁️ Looking for <strong>open source contribution</strong>
 <details>
